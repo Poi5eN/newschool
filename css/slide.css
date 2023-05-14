@@ -1,0 +1,24 @@
+.slider_section {
+    position: relative;
+  }
+  
+  .carousel-item:nth-child(1) .slider_section {
+    background-image: url('/images/alpha1.jpeg');
+  }
+  
+  .carousel-item:nth-child(2) .slider_section {
+    background-image: url('path/to/second/image.jpg');
+  }
+  
+  .carousel-item:nth-child(3) .slider_section {
+    background-image: url('path/to/third/image.jpg');
+  }
+  
+  .carousel-item:nth-child(4) .slider_section {
+    background-image: url('path/to/fourth/image.jpg');
+  }
+  
+  .carousel-item:nth-child(5) .slider_section {
+    background-image: url('path/to/fifth/image.jpg');
+  }
+  
